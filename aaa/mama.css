@@ -1,0 +1,30 @@
+body{
+    background-color: deepskyblue;
+}
+div.titulo{
+    background-color: darkseagreen;
+    height: 30px;
+    width: 600px;
+}
+div.formulario{
+    background-color: darkred;
+    height: 200px;
+    width: 800px;
+}
+div.parte_2{
+    background-color: beige;
+    width: 1000px;
+    height: 600px;
+}
+img.foto_1{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+img.foto_2{
+    width: 100px;
+    height: 100px;
+    margin-left: -50px;
+    margin-top: 100px;
+}

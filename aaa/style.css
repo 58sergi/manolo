@@ -1,0 +1,28 @@
+body{
+    background-color: brown;
+}
+h1.titulo{
+    color: darkgoldenrod;
+}
+img.foto_1{
+    height: 100px;
+    width: 100px;
+    margin-left: 30%;
+}
+a.enlace_1{
+    margin-left: 20%;
+}
+div.parte_1{
+}
+div.parte_2{
+    background-color: pink;
+}
+img.foto_2{
+    height: 100px;
+    width: 100px;
+    margin-left: 30%;
+}
+div.tabla_1{
+    background-color: chartreuse;
+    width: 30%;
+}
